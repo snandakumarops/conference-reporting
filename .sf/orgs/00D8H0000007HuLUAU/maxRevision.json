@@ -1,0 +1,239 @@
+{
+  "serverMaxRevisionCounter": 54,
+  "sourceMembers": {
+    "ListView__Session__c.All": {
+      "serverRevisionCounter": 16,
+      "lastRetrievedFromServer": 16,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Speaker__c.All": {
+      "serverRevisionCounter": 17,
+      "lastRetrievedFromServer": 17,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__Session__c.Session_Date__c": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": 1,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Session__c.Session_Location__c": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Session__c.Session_Name__c": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Session__c.Session_Time__c": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Speaker__c.Session__c": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Speaker__c.Speaker_City__c": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Speaker__c.Speaker_Company__c": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Speaker__c.Speaker_Contact__c": {
+      "serverRevisionCounter": 9,
+      "lastRetrievedFromServer": 9,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Speaker__c.Speaker_Name__c": {
+      "serverRevisionCounter": 10,
+      "lastRetrievedFromServer": 10,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Speaker__c.Speaker_Title__c": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Report__unfiled$public/New_Speaker_with_Session_Report_pXH": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 26,
+      "lastRetrievedFromServer": 26,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Speaker__c-Speaker Layout": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "DashboardFolder__Public": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "DashboardFolder",
+      "isNameObsolete": false
+    },
+    "CustomObject__Session__c": {
+      "serverRevisionCounter": 12,
+      "lastRetrievedFromServer": 12,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Speaker__c": {
+      "serverRevisionCounter": 13,
+      "lastRetrievedFromServer": 13,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "Dashboard__Public/nBGKlVnPvYubdjEVbPqFwMQvWKNVUL": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "Dashboard",
+      "isNameObsolete": false
+    },
+    "CustomTab__Session__c": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomTab__Speaker__c": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomApplication__Session_Reporting": {
+      "serverRevisionCounter": 54,
+      "lastRetrievedFromServer": 54,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "CompactLayout__Session__c.Custom_Compact_Layout": {
+      "serverRevisionCounter": 14,
+      "lastRetrievedFromServer": 14,
+      "memberType": "CompactLayout",
+      "isNameObsolete": false
+    },
+    "CompactLayout__Speaker__c.Custom_Compact_Layout": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "CompactLayout",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Session_Reporting_UtilityBar": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "PermissionSet__Reports_Permission_Set": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": 27,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "AuthProvider__DEVOPS_CENTER_GITHUB": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "AuthProvider",
+      "isNameObsolete": false
+    },
+    "AuthProvider__DEVOPS_CENTER_PROD": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "AuthProvider",
+      "isNameObsolete": false
+    },
+    "AuthProvider__DEVOPS_CENTER_TEST": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "AuthProvider",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Tech_Conference1": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": null,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Tech_Conferencelogos_white": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": null,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Tech_Conference1_1": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Tech_Conference1_2": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": null,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Tech_Conferencelogos_transparent": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": null,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Tech_Conferencelogos_transparent1": {
+      "serverRevisionCounter": 42,
+      "lastRetrievedFromServer": 42,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__reporting1": {
+      "serverRevisionCounter": 49,
+      "lastRetrievedFromServer": 49,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ContentAsset__reporting11": {
+      "serverRevisionCounter": 52,
+      "lastRetrievedFromServer": 52,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "BrandingSet__LEXTHEMINGConferenceTheme": {
+      "serverRevisionCounter": 46,
+      "lastRetrievedFromServer": 46,
+      "memberType": "BrandingSet",
+      "isNameObsolete": false
+    },
+    "LightningExperienceTheme__ConferenceTheme": {
+      "serverRevisionCounter": 44,
+      "lastRetrievedFromServer": 44,
+      "memberType": "LightningExperienceTheme",
+      "isNameObsolete": false
+    }
+  }
+}
